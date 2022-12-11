@@ -1,0 +1,14 @@
+name: a5-vickyzhihuang
+title: a5-vickyzhihuang
+username:
+account: vickyzhihuang
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7865426
+bundleId: 6622734
+url: https://vickyzhihuang.shinyapps.io/a5-vickyzhihuang/
+when: 1670753053.72633
+lastSyncTime: 1670753053.72634
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: LICENSE|owid-co2-data.txt|README.md
